@@ -60,7 +60,7 @@
 > 
 > 备注4：此机制可以用来提供SDK，以监督可能的下游供应商的流量。
 
-我们可以通过报童来执行一个按章节付费的智能合约:
+我们可以通过报童来轻松实现一个按章节付费的智能合约，在CR-3里，我们将提供一系列开放的章节制合约标准:
 
 ```solidity
 import “./NewsBoy.sol”;
@@ -92,3 +92,7 @@ function subscribeChapter(uint chapterNum) payable{
 - 排行榜
   
 都是手到擒来的功能。
+
+## VIP机制
+
+
