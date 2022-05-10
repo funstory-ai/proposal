@@ -9,4 +9,14 @@ We have the following proposal theme:
 
 - craft: consitituion and enconomy ruleset of De-Co
 - metaverse: build a game world based on the derivative of content.
-- nft: an universal, programable and extending protocol of NFT creation.
+- aaron: an universal, programable and extending protocol of NFT creation.
+
+# Proposals Format
+
+1. The fisrt proposal should be a summary of whole framework and updated if something changed
+2. The proposal filename shoud be:
+   1. AR-XX.md for aaron
+   2. CF-XX.md for craft
+   3. META-XX.md for metaverse
+
+# Discussion Rule
